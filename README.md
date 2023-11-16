@@ -164,8 +164,8 @@ urlpatterns = [
 
 
 ## OUTPUT:
-![Screenshot (5)](https://github.com/jaisurya143/MathServer/assets/121999338/1f6cb1d8-1390-4128-b493-af3b7eeb516e)
-![Screenshot 2023-11-09 224848](https://github.com/jaisurya143/MathServer/assets/121999338/96539b0d-e3e5-41ac-b715-607ccae00a4d)
+![Screenshot 2023-11-16 085619](https://github.com/Madhan213/MathServer/assets/130206230/5c0e198d-39e9-4997-963a-3414a7dd59ff)
+![Screenshot 2023-11-16 085531](https://github.com/Madhan213/MathServer/assets/130206230/a40d2f28-b5dd-4fa4-9be9-5b731032f0cb)
 
 
 
